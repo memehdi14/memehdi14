@@ -1,13 +1,19 @@
 <div align="center">
   
-  <img src="./public/github-banner.svg" alt="Mehdi Namdar - AI Automation Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/memehdi14/Namdar.dev/main/public/images/logo.png" alt="Namdar.dev Logo" width="500"/>
   
   <br/><br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-namdar.dev-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://namdar.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdinamdar14)
+  <img src="https://raw.githubusercontent.com/memehdi14/Namdar.dev/main/public/images/pfp1.png" alt="Mehdi Namdar" width="150" style="border-radius: 50%;"/>
+  
+  <h1>MEHDI NAMDAR</h1>
+  <h3>AI Automation Engineer | Building Intelligent Systems</h3>
+  
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mehdinamdar.me-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://mehdinamdar.me)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mehdi-namdar-042609327/)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namdar.mehdi14@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917990438839)
   
 </div>
 
@@ -17,11 +23,20 @@
 
 Specialized in developing **production-grade AI automation systems** for enterprise and startup environments. Expertise in agentic AI, voice automation, and workflow optimization with a proven track record of **21+ deployed AI agents** serving real-world applications.
 
+**Machine Learning & Deep Learning**: Hands-on experience with neural network architectures, transformer models, and custom training pipelines. Proficient in PyTorch and TensorFlow for building CNNs, RNNs, and attention-based models from scratch.
+
+**Large Language Models**: Expert in prompt engineering, fine-tuning (PEFT/LoRA/QLoRA), and RAG implementations. Built production systems using GPT-4, Claude, Llama, and Mistral with advanced context management and function calling.
+
 ```typescript
 const profile = {
   role: "AI Automation Engineer",
   specialization: ["Agentic AI Systems", "Voice AI", "Workflow Automation"],
   production: "21+ AI agents deployed",
+  ml_experience: {
+    deep_learning: ["Transformers", "CNNs", "RNNs", "Attention Mechanisms"],
+    llm_engineering: ["Fine-tuning", "RAG", "Prompt Engineering", "Function Calling"],
+    frameworks: ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"]
+  },
   methodology: "Scalable architecture, clean implementation, measurable impact"
 };
 ```
@@ -102,10 +117,18 @@ const profile = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### LLM & AI Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Automation & Infrastructure
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -113,6 +136,11 @@ const profile = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Vector Databases & Search
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
 
 </div>
 
@@ -129,6 +157,8 @@ const profile = {
 | **Automation Rate** | 80% manual task reduction |
 | **Client Retention** | 98% satisfaction |
 | **Email Processing** | 5,000+ daily messages |
+| **Models Fine-Tuned** | 15+ custom LLMs |
+| **Training Hours** | 200+ GPU hours |
 | **Average Delivery** | 6-8 week timeline |
 
 </div>
@@ -139,15 +169,15 @@ const profile = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=memehdi14&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&icon_color=22c55e&text_color=ffffff" alt="GitHub Statistics" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=memehdi14&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&icon_color=22c55e&text_color=ffffff&cache_seconds=86400" alt="GitHub Statistics" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff" alt="Language Distribution" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff&cache_seconds=86400&langs_count=6" alt="Language Distribution" height="170"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memehdi14&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=memehdi14&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Contribution Streak" />
   
 </div>
 
@@ -235,10 +265,9 @@ Nirma University, Ahmedabad | CGPA: 8.00/10.00 | 2022-2026
   
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-namdar.dev-22c55e?style=for-the-badge)](https://namdar.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mehdinamdar.me-22c55e?style=for-the-badge)](https://mehdinamdar.me)
   [![Email](https://img.shields.io/badge/Email-namdar.mehdi14@gmail.com-EA4335?style=for-the-badge)](mailto:namdar.mehdi14@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdinamdar14-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mehdinamdar14)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7990438839-25D366?style=for-the-badge)](https://wa.me/917990438839)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Mehdi_Namdar-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mohammad-mehdi-namdar-042609327/)
   
   <br/>
   
