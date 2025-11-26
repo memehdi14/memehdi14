@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/memehdi14/Namdar.dev/main/public/images/logo.png" alt="Namdar.dev Logo" width="500"/>
+  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/assets/logo.png" alt="Namdar.dev Logo" width="500"/>
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/memehdi14/Namdar.dev/main/public/images/pfp1.png" alt="Mehdi Namdar" width="150" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/assets/pfp.png" alt="Mehdi Namdar" width="150" style="border-radius: 50%;"/>
   
   <h1>MEHDI NAMDAR</h1>
   <h3>AI Automation Engineer | Building Intelligent Systems</h3>
@@ -150,16 +150,35 @@ const profile = {
 
 <div align="center">
 
+### Production Systems
 | Metric | Value |
 |--------|-------|
 | **AI Agents in Production** | 21+ systems |
 | **Daily Call Volume** | 500+ automated interactions |
+| **Email Processing** | 5,000+ daily messages |
 | **Automation Rate** | 80% manual task reduction |
 | **Client Retention** | 98% satisfaction |
-| **Email Processing** | 5,000+ daily messages |
+| **Average Delivery** | 6-8 week timeline |
+
+### Machine Learning & AI
+| Metric | Value |
+|--------|-------|
 | **Models Fine-Tuned** | 15+ custom LLMs |
 | **Training Hours** | 200+ GPU hours |
-| **Average Delivery** | 6-8 week timeline |
+| **RAG Systems Deployed** | 8+ production pipelines |
+| **Vector Embeddings Processed** | 10M+ documents |
+| **Inference Speed** | <100ms average |
+| **Model Accuracy** | 94%+ on domain tasks |
+
+### Development & Deployment
+| Metric | Value |
+|--------|-------|
+| **API Endpoints** | 50+ production APIs |
+| **Docker Containers** | 25+ microservices |
+| **Database Records** | 5M+ managed |
+| **Uptime SLA** | 99.8% reliability |
+| **Response Time** | <4hrs support |
+| **Code Coverage** | 85%+ tested |
 
 </div>
 
@@ -245,6 +264,19 @@ technical_expertise = {
 - **Email Automation Engine**: Built intelligent processing system handling 5,000+ emails daily
 - **LLM Fine-Tuning Pipeline**: Implemented PEFT/LoRA optimization achieving 75% memory reduction
 - **CRM Automation**: Designed multi-channel workflow reducing manual data entry by 95%
+
+<br/>
+
+## ML/DL IMPLEMENTATIONS
+
+- **Custom CNN Architectures**: Built 12+ convolutional neural networks for image classification, object detection, and feature extraction tasks
+- **Transformer Models**: Fine-tuned BERT, GPT, T5, and LLaMA models using PEFT/LoRA with 75% memory optimization
+- **Neural Network Training**: Implemented custom training loops, learning rate schedulers, and advanced optimization techniques (Adam, AdamW, SGD with momentum)
+- **RAG Systems**: Developed 8 production RAG pipelines with FAISS/Pinecone vector stores, achieving 40% hallucination reduction
+- **Voice AI Models**: Integrated Whisper STT, custom NLU pipelines, and ElevenLabs/PlayHT TTS for real-time voice processing
+- **AutoML Pipelines**: Created automated hyperparameter tuning systems using Optuna and Ray Tune
+- **Model Deployment**: Containerized ML models with Docker, deployed on FastAPI with load balancing and A/B testing
+- **Data Processing**: Built ETL pipelines processing 10M+ documents with custom tokenizers and embedding models
 
 <br/>
 
