@@ -188,15 +188,25 @@ const profile = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=memehdi14&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&icon_color=22c55e&text_color=ffffff&cache_seconds=86400" alt="GitHub Statistics" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=memehdi14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github" alt="GitHub Statistics" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff&cache_seconds=86400&langs_count=6" alt="Language Distribution" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=320" alt="Language Distribution" height="180"/>
   
 </div>
 
+<br/>
+
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=memehdi14&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memehdi14&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=c9d1d9" alt="Contribution Streak" width="600"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memehdi14&theme=github_dark" alt="Contribution Graph" width="800"/>
   
 </div>
 
@@ -251,7 +261,15 @@ technical_expertise = {
 
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=memehdi14&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=22c55e&line=22c55e&point=ffffff)](https://github.com/memehdi14)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=memehdi14&bg_color=0d1117&color=22c55e&line=22c55e&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="95%"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=memehdi14&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="95%"/>
   
 </div>
 
