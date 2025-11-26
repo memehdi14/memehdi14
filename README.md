@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/assets/logo.png" alt="Namdar.dev Logo" width="500"/>
+  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/logo.png" alt="Namdar.dev Logo" width="500"/>
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/assets/pfp.png" alt="Mehdi Namdar" width="150" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/pfp.png" alt="Mehdi Namdar" width="150" style="border-radius: 50%;"/>
   
   <h1>MEHDI NAMDAR</h1>
   <h3>AI Automation Engineer | Building Intelligent Systems</h3>
