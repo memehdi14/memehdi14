@@ -23,7 +23,7 @@
 
 Third-year B.Tech student (Electronics & Instrumentation, Nirma University) working part-time as an AI Developer at TalentIn.ai. I care about the full stack underneath LLM products, not just the API layer: training pipelines, distributed compute, quantization, and the hardware constraints that make a model actually ship.
 
-Currently deepening core ML fundamentals — PyTorch internals, transformer architecture, distributed training, model efficiency — while working on embedded ML for a clinical wearable and agent infrastructure at work.
+Currently deepening core ML fundamentals - PyTorch internals, transformer architecture, distributed training, model efficiency - while working on embedded ML for a clinical wearable and agent infrastructure at work.
 
 ```python
 focus = {
@@ -40,7 +40,7 @@ focus = {
 
 ## SELECTED WORK
 
-### Tarang — Wearable ECG Arrhythmia Classifier
+### Tarang - Wearable ECG Arrhythmia Classifier
 *Silicon Labs IoT Challenge 2026 — Top 20, Team Ocelleon*
 
 Built a cascaded 1D-CNN arrhythmia classifier trained on 100K+ annotated ECG beats, quantized to INT8 (TFLite) for real-time inference on an EFR32MG26 microcontroller. Diagnosed and fixed a minority-class collapse with a dual-head binary sigmoid architecture, and validated the full signal chain — 250Hz acquisition, NLMS adaptive filtering, Pan-Tompkins R-peak detection — on real hardware.
