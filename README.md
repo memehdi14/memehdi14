@@ -131,7 +131,7 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 ## Education
 
 **B.Tech, Electronics & Instrumentation Engineering**
-Nirma University, Ahmedabad | CGPA: 8.00/10.00 | Expected 2028
+Nirma University, Ahmedabad | CGPA: 8.04/10.00 | Expected 2028
 
 <br/>
 
