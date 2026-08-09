@@ -103,7 +103,7 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 <br/>
 
 <!-- isometric contribution calendar: renders once the metrics.yml Action below has run successfully in memehdi14/memehdi14 -->
-<img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/github-metrics.svg" alt="Isometric contribution calendar" width="100%"/>
+<img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/github-metrics.svg" alt="Isometric contribution calendar" width="65%"/>
 
 <!--
   Services used above (all free, community-run):
@@ -131,7 +131,7 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 ## Education
 
 **B.Tech, Electronics & Instrumentation Engineering**
-Nirma University, Ahmedabad | CGPA: 8.04/10.00 | Expected 2028
+Nirma University, Ahmedabad | CGPA: 8.00/10.00 | Expected 2028
 
 <br/>
 
