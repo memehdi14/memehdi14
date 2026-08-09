@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/pfp.png" alt="MohammadMehdi Namdar" width="140" style="border-radius: 50%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22c55e&height=200&section=header&text=MohammadMehdi%20Namdar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20Research%20Engineering%20%E2%80%94%20Nirma%20University&descAlignY=58&descSize=18&descColor=c9d1d9"/>
 
-# MOHAMMADMEHDI NAMDAR
+<img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/pfp.png" alt="MohammadMehdi Namdar" width="140" style="border-radius: 50%; border: 3px solid #22c55e;"/>
 
-### ML / Research Engineering &nbsp;•&nbsp; Electronics & Instrumentation, Nirma University
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=680&lines=Training+transformers+from+scratch;Quantizing+models+for+embedded+hardware;Building+hybrid+vector+search+with+Qdrant;Shipping+ML+from+silicon+to+API" alt="Typing SVG"/>
+
+<br/>
 
 <a href="https://mehdinamdar.me"><img src="https://img.shields.io/badge/Portfolio-mehdinamdar.me-22c55e?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/mohammad-mehdi-namdar-042609327/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:namdar.mehdi14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://raw.githubusercontent.com/memehdi14/memehdi14/main/logo.png" alt="divider" width="500"/>
 
 </div>
 
@@ -35,24 +41,42 @@ focus = {
 
 ## Selected Work
 
-**Tarang — Wearable ECG Arrhythmia Classifier**
+<table>
+<tr>
+<td width="100%">
+
+**🫀 Tarang — Wearable ECG Arrhythmia Classifier**
 *Silicon Labs IoT Challenge 2026 — Top 20, Team Ocelleon*
 
 Built a cascaded 1D-CNN arrhythmia classifier trained on 100K+ annotated ECG beats, quantized to INT8 (TFLite) for real-time inference on an EFR32MG26 microcontroller. Diagnosed and fixed a minority-class collapse with a dual-head binary sigmoid architecture, and validated the full signal chain — 250Hz acquisition, NLMS adaptive filtering, Pan-Tompkins R-peak detection — on real hardware.
 
-`PyTorch` `TensorFlow Lite` `Embedded C` `Signal Processing`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TFLite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Agent Infrastructure @ TalentIn.ai**
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🤖 Agent Infrastructure @ TalentIn.ai**
 
 Designed and trained a transformer-based model from scratch with data-parallel multi-GPU training on Lambda Cloud, owning the pipeline end to end from data curation through evaluation. Separately built LangGraph-based multi-agent recruiting pipelines with hybrid (dense + sparse) vector search over a ~72K candidate corpus in Qdrant, deployed as production FastAPI services on AWS.
 
-`PyTorch` `LangGraph` `Qdrant` `FastAPI` `Docker` `AWS`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Voice & Automation Systems** *(Freelance)*
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🎙️ Voice & Automation Systems** *(Freelance)*
 
 Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based automation/RAG pipelines for small business clients, end to end from requirements to deployment.
 
-`Retell` `Vapi` `n8n` `RAG`
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-22c55e?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -60,13 +84,7 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,fastapi,docker,aws,cpp,arduino,git&theme=dark" alt="Tech Stack"/>
 
 </div>
 
@@ -76,26 +94,31 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 
 <div align="center">
 
-<!--
-  NOTE: the official github-readme-stats.vercel.app is a shared free
-  instance that has been intermittently down (503 DEPLOYMENT_PAUSED /
-  GitHub API rate limits) since Dec 2025 — a known, widely-reported
-  issue, not specific to this profile. Using github-stats-extended
-  below instead: it's a maintained fork of the same project, drop-in
-  compatible (same query params), just a different domain, so it
-  isn't sharing the overloaded instance's quota.
-  Source: https://github.com/stats-organization/github-stats-extended
-
-  If this ever degrades too, the most bulletproof option is to stop
-  depending on any live third-party service at all: use
-  https://github.com/anuraghazra/github-readme-stats-action inside a
-  GitHub Actions workflow to render the card to a static SVG and
-  commit it into your memehdi14/memehdi14 repo, then just reference
-  that file directly with a raw.githubusercontent.com URL below.
--->
-
 <img src="https://github-stats-extended.vercel.app/api?username=memehdi14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github" alt="GitHub Statistics" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=320" alt="Language Distribution" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=memehdi14&theme=react-dark&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=memehdi14&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophies"/>
+
+<!--
+  Services used above (all free, community-run):
+  - capsule-render: banner header
+  - readme-typing-svg: animated tagline
+  - skillicons.dev: tech icons
+  - github-stats-extended: stats/lang cards (fork of github-readme-stats,
+    used instead of the official shared instance since that one has been
+    intermittently rate-limited / down since Dec 2025)
+  - github-readme-activity-graph: contribution graph
+  - github-profile-trophy: achievement badges
+  All render as plain <img> tags so no JS/build step is needed — if any
+  one of them goes down later, swap only that image's domain, the rest
+  of the file is unaffected.
+-->
 
 </div>
 
@@ -110,7 +133,7 @@ Nirma University, Ahmedabad | CGPA: 8.00/10.00 | Expected 2028
 
 <div align="center">
 
-Open to research/ML engineering internships and collaboration.
+### Open to research/ML engineering internships and collaboration
 
 <a href="https://mehdinamdar.me"><img src="https://img.shields.io/badge/Portfolio-mehdinamdar.me-22c55e?style=for-the-badge" alt="Portfolio"/></a>
 <a href="mailto:namdar.mehdi14@gmail.com"><img src="https://img.shields.io/badge/Email-namdar.mehdi14@gmail.com-EA4335?style=for-the-badge" alt="Email"/></a>
@@ -119,5 +142,7 @@ Open to research/ML engineering internships and collaboration.
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=memehdi14&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=100&section=footer"/>
 
 </div>
