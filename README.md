@@ -76,8 +76,26 @@ Built and shipped voice AI agents (Retell, Vapi, ElevenLabs) and n8n-based autom
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=memehdi14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github&count_private=true" alt="GitHub Statistics" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=320" alt="Language Distribution" width="49%"/>
+<!--
+  NOTE: the official github-readme-stats.vercel.app is a shared free
+  instance that has been intermittently down (503 DEPLOYMENT_PAUSED /
+  GitHub API rate limits) since Dec 2025 — a known, widely-reported
+  issue, not specific to this profile. Using github-stats-extended
+  below instead: it's a maintained fork of the same project, drop-in
+  compatible (same query params), just a different domain, so it
+  isn't sharing the overloaded instance's quota.
+  Source: https://github.com/stats-organization/github-stats-extended
+
+  If this ever degrades too, the most bulletproof option is to stop
+  depending on any live third-party service at all: use
+  https://github.com/anuraghazra/github-readme-stats-action inside a
+  GitHub Actions workflow to render the card to a static SVG and
+  commit it into your memehdi14/memehdi14 repo, then just reference
+  that file directly with a raw.githubusercontent.com URL below.
+-->
+
+<img src="https://github-stats-extended.vercel.app/api?username=memehdi14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github" alt="GitHub Statistics" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=memehdi14&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=320" alt="Language Distribution" width="49%"/>
 
 </div>
 
